@@ -17,7 +17,7 @@ University of Nottingham</a>, please refer to the legal notices on the
 <a href="https://www.nottingham.ac.uk" title="https://www.nottingham.ac.uk">
 University of Nottingham website</a>.
 </p>
-
+<hr />
 <h2 id="privacy_policy">Privacy Policy</h2>
 <p>
 Please refer to the privacy policy on the
@@ -26,7 +26,7 @@ Please refer to the privacy policy on the
     title="https://www.nottingham.ac.uk/utilities/privacy/privacy.aspx">
   University of Nottingham website</a>.
 </p>
-
+<hr />
 <h2 id="cookie_policy">Cookie Policy</h2>
 <p>
 Please refer to the cookie policy on the
