@@ -4,7 +4,9 @@ namespace MRBS;
 function print_theme_footer()
 {
   echo "</div>\n";  // closing the contents div, opened in print_theme_header()
-  echo "<footer>Footer</footer>\n";
+  ?>
+  <footer class="banner">Footer</footer>
+  <?php
   echo "</body>\n";
   echo "</html>\n";
 }
