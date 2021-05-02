@@ -12,7 +12,7 @@ function print_theme_footer()
   <script>
   jQuery(function($) {
     var table = $('.table_container');
-    var layout_link = $('<div>View lab layout</div>');
+    var layout_link = $('<div class="layout_link">View lab layout</div>');
     layout_link.insertBefore(table);
   });
   </script>
